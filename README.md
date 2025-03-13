@@ -4,7 +4,7 @@ Submitted by: **Carlos Sac**
 
 **CS Trivia** is an app that asks a series of random multiple-choice questions about computer science.
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -40,8 +40,6 @@ iPhone SE 3
 ## Notes
 
 Demo added for the iPhone SE 3 to show a different device.
-
-Describe any challenges encountered while building the app.
 
 ## License
 
