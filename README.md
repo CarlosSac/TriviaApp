@@ -43,7 +43,7 @@ Demo added for the iPhone SE 3 to show a different device.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Carlos Sac
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
