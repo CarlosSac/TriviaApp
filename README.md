@@ -27,9 +27,14 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+
 iPhone 16
+
 <img src='demo.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+
+
 iPhone SE 3
+
 <img src='demoSE.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## Notes
